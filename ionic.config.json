@@ -1,0 +1,7 @@
+{
+  "name": "valueMeNotifications",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
