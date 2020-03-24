@@ -1,0 +1,40 @@
+{
+    "project_info": {
+      "project_number": "271660595145",
+      "firebase_url": "https://valuemedev.firebaseio.com",
+      "project_id": "valuemedev",
+      "storage_bucket": "valuemedev.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:271660595145:android:32ad97a3a8e7bc0d0fda18",
+          "android_client_info": {
+            "package_name": "io.ionic.starter"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "271660595145-cedobj5o7i4k5vl1ukkvcqcpv4bp52ng.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyAhOz4-fVY8aLjGGgTh2V-0KbH86JSF51g"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "271660595145-cedobj5o7i4k5vl1ukkvcqcpv4bp52ng.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
